@@ -1,0 +1,6 @@
+org\itson\dogos_obregon\Dogos_Obregon.class
+models\HotDog.class
+models\Cliente.class
+models\PedidoDetalle.class
+models\MetodoPago.class
+models\Pedido.class
